@@ -1,0 +1,209 @@
+HANDLE,REF,PLTG,OWNR,MP,ADRES,LOC,BLNK,LWSTPWR,TRFCCRCT,STLT,PWRFBR,UKNCM,UNKCM1,UNKCM2,CATV,CATV1,UNKCM3,UKNCM4,TELCO,TELCO1,TELCO2,TELCO3,UKN,UKN1,COMNTS,TYPE
+2,,53DA4B-5,OEC,,355 south center,,,sec dL 29 1,,,,,,,23 1,,,,,,,,,,strain only plank s,JNTTRANS
+3,,53DA4B-4,OEC,,353 south center,,,sec 23 3,,,,,,,20 8,,,,,,,,,,riser down,JNTPL
+4,,53DA4B-3,OEC,,349 south center,,,sec 25 10,,,,,,,21 2,,,,,,,,,,,JNTPL
+5,,207301D7034,OEC,,349 south center,,,neu 29 2,,,,,,,23 7,,,,,,,,,,,JNTPL
+6,,NT,OEC,,349 south center,across from opportunity st.,neu 24,sec dL 23 3,,22,,,,,20 11,,,,,,,,,,,JNTTRANS
+7,,53DA1C-16,OEC,,,,,sec 23 4,,,,,,,21 1,,,,,,,,,,,JNTTRANS
+8,,4001 001,Alltel,,s of rr tracks,,,plht 33 7,,,,,,,31 6,,,,,,,,,,,TELCOPL
+9,,53DA/1C-5,OEC,,n of rr tracks,,,sec35+,,26 10,,,,,35 +,,,,,,,,,,,JNTPL
+10,,53DA/1C-4,OEC,,219 south center,,,sec dL 25 4,,,,,,,21 7,,,,,,,,,,plank s,JNTTRANS
+11,,NT,OEC,,309 south center,,,sec 29 2,,,,,,,22 1,,,,,,,,,,plank n,JNTPL
+12,,53DA1C-10,OEC,,303 south center,,,sec 24 11,,22 2,,,,,21 1,,,,,,,,,,,JNTPL
+13,,53DA1C-11,OEC,,303 south center,,,sec 27 1,,,,,,,20 7,,,,,,,,,,,JNTPL
+14,,NT,OEC,,327 south center,,,sec 23 10,,,,,,,20 1,,,,,,,,,,,JNTTRANS
+15,,NT,OEC,,337 south center,,,sec 24 2,,21 11,,,,,19 10,,,,,,,,,,,JNTPL
+16,,53DA1C-14,OEC,,337 south center,,,sec 23 10,,,,,,,21 3,,,,,,,,,,,JNTPL
+17,,53DA1B-23,OEC,,s of W Main St.,,,sec dL 24 3,,21 5,,,,,20 11,,,,,,,,,,plank e,JNTPL
+18,,53DA1B-23,OEC,,206 W Main St.,s of W Main St.,,sec 24 9,,,,,,,21 2,,,,,,,,,,vines,JNTTRANS
+19,,7003 001,OEC,,w of pleasant st.,,,sec 24 2,,,,,,,17 7,,,,,,,,,,plank n,JNTPL
+20,,7003 002,OEC,,107 pleasant st.,w of pleasant st.,,sec 24 6,,23 7,,,,,17 4,,,,,,,,,,,JNTPL
+21,,7003 003,OEC,,111 pleasant st.,,,sec 22 2,,,,,,,18 5,,,,,,,,,,,JNTTRANS
+22,,NT,OEC,,n of union st. nw crnr int,,,sec 24 9,,22 2,,,,,18 10,,,,,,,,,,sw plank w,JNTPL
+23,,7003 005,OEC,,201 union st.,,,neu 22 2,,,,,,,16 10,,,,,,,,,,plank s strain only,JNTPL
+24,,7005 501,OEC,,N of union,,,neu 22 7,,21 8,,,,,19 1,,,,,,,,,,plank n,JNTPL
+25,,53DA1B-31,OEC,,113 s center,nw int union and s center,,sec 24 8,,22 5,,,,,20 4,,,,,,,,,,,JNTPL
+26,,53DA1B-30,OEC,,109 s center,,,sec dL 23,,,,,,,19 8,,,,,,,,,,plank n strain only,JNTTRANS
+27,,53DA1B-33,OEC,,201 s center,w of street,,sec 22 8,,,,,,,19 8,,,,,,,,,,,JNTPL
+28,,53DA1B-34,OEC,,205 s center,w of street,,sec 26 11,,22,,,,,20 10,,,,,,,,,,,JNTPL
+29,,7001 003,OEC,,210 w main,n of street,,sec 25 1,,21 8,,,,,20 9,,,,,,,,,,,JNTPL
+30,,NT,OEC,,210 w main,s of street,,sec 23 6,,,,,,,20 10,,,,,,,,,,,JNTPL
+31,,NT,OEC,,220 w main,s of street,,sec dL 24 2,,22 11,,,,,20 10,,,,,,,,,,,JNTTRANS
+32,,NT,OEC,,224 w main,s of street,,sec 26 5,,,,,,,20 6,,,,,,,,,,,JNTPL
+33,,53DA1B-10,OEC,,224 w main,se crnr glendale and main,,sec 25 2,,21 5,,,,,19 8,,,,,,,,,,,JNTPL
+34,,207187 D57249,OEC,,228 w main,across from factory st.,,sec 28 2,,23 1,,,,,19 6,,,,,,,,,,,JNTPL
+35,,53DA1B-7,OEC,,230 w main,,sec 23 10,sec dL 23 1,,,,,,,20 9,,,,,,,,,,,JNTTRANS
+36,,NT,OEC,,302 w main,,,sec 25,,22 1,,,,,,,,,19 11,,,,,,,JNTPL
+37,,53DA/2-15,OEC,,306 w main,,,sec dL 24 5,,,,,,,20 11,,,,,,,,,,,JNTTRANS
+38,,53DA/2-14,OEC,,314 w main,,,sec dL 24,,21 7,,,,,20 1,,,,,,,,,,,JNTPL
+39,,53DA/2-13,OEC,,,,sec 25 1,tdl dL 22,,,,,,,20 2,,,,,,,,,,,JNTTRANS
+40,,53DA/2-11,OEC,,406 w main,,,sec dL 25 11,,,,,,,22 9,,,,,,,,,,,JNTPL
+41,,53DA/2-10,OEC,,,,,neu 24 4,,18 11,,,,,20 1,,,,,,,,,,plank s,JNTPL
+42,,53DE/1-13,OEC,,n of rt 303,across from hawley rd.,,neu 29 1,,,,,26,,,,,,,,,,,,,JNTPL
+43,,53DE/1-22,OEC,,n of rt 303,1st pole n of rt 303,,neu 26 10,,,,,23,,,,,,,,,,,,plank n,JNTPL
+44,,53DE/1-23,OEC,,s of rt 303,last pole s of rt 303,,neu 27 4,,,,,22 4 armstrong,,,,,,,,,,,,plank s,JNTPL
+45,,53DE/1-25,OEC,,44633,s of rt 303,sec 24 6,sec dL 22 10,,,,,20 9 j hook,19 11,,,,,,,,,,,,JNTTRANS
+46,,53DD/2-1,OEC,,44591,s of rt 303,,dL 22 8,,,,,20  j hook,19 4,,,,,,,,,,,,JNTTRANS
+47,,53DD/2-2,OEC,,,s of rt 303,,dL 26 1,,,,,22 2,,,,,,,,,,,,,JNTTRANS
+48,,53DD/2-3,OEC,,,across from hawley rd n,,sec 26 2,,24 11,,,22 5,,,,,,,,,,,,,JNTPL
+49,,53DE/1-10,OEC,,,,,neu 28 10,,,,,22 8,,,,,,,,,,,,,JNTPL
+50,,53DE/1-11,OEC,,,,,neu 23 4,,,,,20 1,,,,,,,,,,,,,JNTPL
+51,,53DE/1-12,OEC,,,,,neu 23 10,,,,,20 8,,,,,,,,,,,,,JNTPL
+52,,53DE/1-9,OEC,,,,,neu 24 3,,,,,21 2,,,,,,,,,,,,plank n,JNTPL
+53,,53DE/1-6,OEC,,,,,dL 24 10,,,,,,,21 8,,,,,,,,,,,JNTTRANS
+54,,53DE/2A-5,OEC,,,,,neu 24 9,,,,,,,21 6,,,,,,,,,,,JNTPL
+55,,53DE/1-3,OEC,,,,,dL 24 6,,,,,,,22,,,,,,,,,,,JNTTRANS
+56,,53DE/1-5,OEC,,,,neu 19 1,dL 18 5,,,,,,,15 4,,,,,,,,,,,JNTTRANS
+57,,53DE/2A-2,OEC,,,,,dL 21 6,,,,,18 3,,,,,,,,,,,,,JNTTRANS
+58,,53DE/2A-3,OEC,,,,,neu 24 7,,,,,20 11,,,,,,,,,,,,,JNTPL
+59,,53DE/2A-4,OEC,,,,,neu 25,,,,,,,21 7,,,,,,,,,,,JNTPL
+60,,53DE/2B-7,OEC,,,,neu 22 4,dL 21 2,,,,,,,19 2,,,,,,,,,,,JNTTRANS
+61,,53DE/2A-1,OEC,,,,,neu 24 5,,,,,21 4,,,,,,,,,,,,,JNTPL
+62,,53DE/2B-4,OEC,,,,,neu 24 7,,,,,,,22 2,,,,,,,,,,,JNTPL
+63,,53DE/2B-5,OEC,,,,,neu 26 1,,,,,,,22 10,,,,,,,,,,,JNTPL
+64,,NT,OEC,,,,,neu 25 1,,,,,,,21 7,,,,,,,,,,,JNTPL
+65,,53DE/2B-3,OEC,,ne crnr  hallaurer rd,,,neu 26 5,,dL 24 9,,,,,23 3,,,,,,,,,,,JNTPL
+66,,53DE/2B-2,OEC,,w of hallauer rd,,,neu 27 1,,,,,,,23 5,,,,,,,,,,,JNTPL
+67,,53DF/1-12,OEC,,,,,neu 24 10,,,,,21 1,,,,,,,,,,,,,JNTPL
+68,,53DF/1-29,OEC,,,,,neu 23 9,,,,,19 8,,,,,,,,,,,,,JNTPL
+69,,53DE/2B-1,OEC,,,,,dL 23 5,,,,,,,20 8,,,,,,,,,,,JNTTRANS
+70,,53DF/1-11,OEC,,cemetary,,,neu 24 2,,,,,20 2,,,,,,,,,,,,,JNTPL
+71,,53DF/1-2,OEC,,,,,neu 23 6,,,,,19 10,,,,,,,,,,,,,JNTPL
+72,,53DF/1-5,OEC,,,,,neu 23 11,,,,,20 7,,,,,,,,,,,,,JNTPL
+73,,53DF/1-8,OEC,,,,,neu 23 8,,,,,19 8,,,,,,,,,,,,,JNTPL
+74,,53DF/1-28,OEC,,,,,neu 23 2,,,,,19 10,,,,,,,,,,,,,JNTPL
+75,,7-16-10,LMRE,,ne crnr 303 and 58,,,dL 27 5,,,,,1CM 26,24 8,,,,,,,,,,,tie point,JNTTRANS
+76,,7-16-10S1,LMRE,,,,,neu 23 1,,,,,,,20 7,,20,,,,,,,,,JNTPL
+77,,53DF/1-1,OEC,,,,,dL 23 6,,dL 21 7,,,20 3,,,,,,,,,,,,plank w,JNTTRANS
+78,,53DF/1-25,OEC,,,,,neu 27 4,,,,,22 2,,,,,,,,,,,,,JNTPL
+79,,53DD/2-4,OEC,,44459,,neu 24,dL 22 6,,,,,20 7,,,,,,,,,,,,,JNTTRANS
+80,,NT,OEC,,,,,neu 24 6,,,,,21,,,,,,,,,,,,,JNTPL
+81,,NT,OEC,,,,,neu 24 6,,,,,21 3,,,,,,,,,,,,,JNTPL
+82,,53DD/2-7,OEC,,,,,neu 24 7,,,,,21,,,,,,,,,,,,,JNTPL
+83,,53DD/2-9,OEC,,,,,neu 25 2,,,,,21 4,,,,,,,,,,,,,JNTPL
+84,,53DD/2-8,OEC,,,,,neu 24 6,,,,,21 2,,,,,,,,,,,,,JNTPL
+85,,53DD/1-5,OEC,,e of West Rd,,,neu 35+,,,,,23 3,,,,,,,,,,,,,JNTPL
+86,,53DD/1-6,OEC,,,,,neu 35+,,,,,23 10,,,,,,,,,,,,,JNTPL
+87,,53DD/1-3,OEC,,w of West Rd,,,dL 35+,,,,,22 3,,,,,,,,,,,,,JNTTRANS
+88,,53DD/1-2,OEC,,,,,neu 35+,,,,,22 2,,,,,,,,,,,,,JNTPL
+89,,53DD/1-1,OEC,,,,,neu 28 6,,,,,22 11,,,,,,,,,,,,,JNTPL
+90,,53DD/2-10,OEC,,44187,,,dL 23 7,,,,,21,,,,,,,,,,,,,JNTTRANS
+91,,53DD/1-8,OEC,,43901,,,dL 22 10,,,,,20,,,,,,,,,,,,,JNTTRANS
+92,,NT,OEC,,,,,dL 27 1,,,,,22 2,,,,,,,,,,,,,JNTTRANS
+93,,53DD/1-10,OEC,,,,,neu 25 8,,,,,,,21 6,,,,,,,,,,,JNTPL
+94,,53DD/1-9,OEC,,,,,neu 25 5,,,,,,,21 5,,,,,,,,,,,JNTPL
+95,,53DD/1-12,OEC,,,,,neu 25 8,,,,,,,21 1,,,,,,,,,,,JNTPL
+96,,53DD/1-11,OEC,,,,,neu 25 1,,,,,,,21 6,,,,,,,,,,,JNTPL
+97,,53DD/2-4,OEC,,43565,,neu 25 2,dL 23,,,,,,,21,,,,,,,,,,,JNTTRANS
+98,,53DC/2-3,OEC,,43565,,,neu 25 6,,,,,,,20 11,,,,,,,,,,,JNTPL
+99,,53DC/2-2,OEC,,43381,,,neu 25 2,,,,,,,21 10,,,,,,,,,,,JNTPL
+100,,53DC/2-1,OEC,,,,,neu 25 6,,,,,,,22 1,,,,,,,,,,,JNTPL
+101,,53DD/1-13,OEC,,,,,neu 27 5,,,,,,,21 5,,,,,,,,,,,JNTPL
+102,,53DC/2-6,OEC,,43317,curve,,dL 22 1,,,,,,,19,,,,,,,,,,plank n,JNTTRANS
+103,,NT,OEC,,beginning of curve,,,neu 25 4,,,,,,,21 4,,,,,,,,,,,JNTPL
+104,,53DC/2-7,OEC,,end of curve,,,neu 25 6,,,,,,,20 11,,,,,,,,,,plank s,JNTPL
+105,,NT,OEC,,,,,neu 24 1,,,,,,,20 10,,,,,,,,,,,JNTPL
+106,,53DC/2-9,OEC,,,,,neu 28 5,,,,,,,21 5,,,,,,,,,,,JNTPL
+107,,53DC/2-10,OEC,,,,,neu 24 4,,,,,,,21 8,,,,,,,,,,,JNTTRANS
+108,,53DC/1-2,OEC,,43205,,,neu 25 8,,,,,,,20 3,,,,,,,,,,,JNTPL
+109,,53DC/1-1,OEC,,,,,neu 26 4,,,,,,,21 4,,,,,,,,,,,JNTPL
+110,,53DC/2-11,OEC,,43317,,,dL 22 9,,,,,,,18 4,,,,,,,,,,,JNTTRANS
+111,,NT,OEC,,,,,neu 26 11,,,,,,,21 2,,,,,,,,,,,JNTPL
+112,,53DC/1-7,OEC,,43099,,,neu 25 5,,,,,,,20 9,,,,,,,,,,,JNTPL
+113,,53DC/1-6,OEC,,43155,,,neu 26 8,,,,,,,20 2,,,,,,,,,,,JNTPL
+114,,53DC/1-3,OEC,,43205,,,neu 25 9,,,,,,,20 4,,,,,,,,,,,JNTPL
+130,,53DC/1-13,OEC,,w of Nickle Plate Diagonal Rd,,,neu 28 7,,24,,,,,22 9,,,,,,,,,,,JNTPL
+131,,53DC/1-8,OEC,,,,,neu 24,,,,,,,20 9,,,,,,,,,,,JNTPL
+132,,53DC/1-28,OEC,,,,,neu 24 4,,,,,,,21 2,,,,,,,,,,,JNTPL
+133,,53DC/1-27,OEC,,e of nickel plate diagonal rd,,,dL 24 3,,,,,,,20 7,,,,,,,,,,,JNTTRANS
+135,,53DC/1-29,OEC,,42827,,,dL 23 3,,,,,,,19 3,,,,,,,,,,,JNTTRANS
+136,,53DC/1-31,OEC,,,,,neu 24 8,,,,,,,21 5,,,,,,,,,,,JNTPL
+137,,53DC/1-30,OEC,,,,,neu 23 5,,,,,,,20,,,,,,,,,,,JNTPL
+138,,53DB/2-4,OEC,,,,,neu 21 10,,,,,,,18 4,,,,,,,,,,,JNTPL
+139,,53DB/2-3,OEC,,,,,neu 24 2,,,,,,,20 8,,,,,,,,,,,JNTPL
+140,,53DB/2-2,OEC,,,,,neu 24 2,,,,,,,20 7,,,,,,,,,,,JNTPL
+142,,NT,OEC,,,,,neu 25 5,,,,,,,22 3,,,,,,,,,,,JNTPL
+143,,NT,OEC,,,,,neu 24 9,,,,,,,21 2,,,,,,,,,,,JNTPL
+144,,53DB/2-10,OEC,,RLCWA,,,neu 24 9,,,,,,,22,,,,,,,,,,,JNTPL
+145,,53DB/2-9,OEC,,RLCWA,,,neu 25,,,,,,,21 7,,,,,,,,,,,JNTPL
+146,,53DB/2-7,OEC,,42537,,dL 20 10,neu 21 10,,,,,,,18 5,,,,,,,,,,,JNTTRANS
+147,,53DB/2-5,OEC,,,,neu 23 11,dL 22 4,,,,,,,20 6,,,,,,,,,,,JNTTRANS
+148,,53DB/1-13,OEC,,42251,,,dL 34 10,,,,,,,21 4,,,,,,,,,,,JNTTRANS
+149,,53DB/2-18,OEC,,42251,,,neu 29 8,,,,,,,22 1,,,,,,,,,,,JNTPL
+150,,53DB/2-17,OEC,,42251,,,neu 25,,,,,,,21 8,,,,,,,,,,,JNTPL
+151,,53DB/1-11,OEC,,42251,,,dL 23 2,,,,,,,20 5,,,,,,,,,,,JNTTRANS
+152,,53DB/1-12,OEC,,42251,,,neu 28 3,,,,,,,21 6,,,,,,,,,,,JNTPL
+153,,NT,OEC,,,,,neu 24 10,,,,,,,21,,,,,,,,,,,JNTPL
+154,,53DB/1-10,OEC,,42105,,neu 23 11,dL 22 6,,,,,,,19 11,,,,,,,,,,,JNTTRANS
+156,,53DB/1-7,OEC,,w of whitehead rd,,,sec dL  26 9,,24 7,,,,,23 8,,,,,,,,,,,JNTPL
+157,,53DB/1-8,OEC,,42023,,,dL  29 5,,,,,,,24 7,,,,,,,,,,,JNTTRANS
+158,,53DB/1-30,OEC,,,,,neu 26,,,,,,,21 3,,,,,,,,,,,JNTPL
+159,,53DB/1-28,OEC,,,,,dL 24 1,,,,,,,21 6,,,,,,,,,,,JNTTRANS
+160,,53DB/1-32,OEC,,,,,neu 26 7,,,,,,,21 10,,,,,,,,,,,JNTPL
+161,,53DB/1-31,OEC,,,,,neu 24 9,,,,,,,22 1,,,,,,,,,,,JNTPL
+162,,53DA/2-1,OEC,,,,,neu 26 7,,,,,,,21 11,,,,,,,,,,,JNTPL
+163,,53DB/1-33,OEC,,,,,neu 26,,,,,,,21 5,,,,,,,,,,,JNTPL
+164,,53DA/2-3,OEC,,,,,neu 25 1,,,,,,,20 11,,,,,,,,,,,JNTPL
+165,,53DA/2-2,OEC,,,,,neu 25 3,,,,,,,20 9,,,,,,,,,,,JNTPL
+166,,53DA/2-5,OEC,,41573,,,dL 26 6,,,,,,,20 7,,,,,,,,,,,JNTTRANS
+167,,53DA/2-4,OEC,,41573,,,neu 29 1,,,,,,,21 1,,,,,,,,,,,JNTTRANS
+168,,53DA/2-9,OEC,,418,,,dL 24 7,,,,,,,20 5,,,,,,,,,,,JNTTRANS
+169,,53DA/2A-1,OEC,,e of park dr,,neu 22 11,sec dL 21 8,,,,,,,19 8,,,,,,,,,,,JNTPL
+170,,53DA/2-8,OEC,,428,,neu 23 2,ror dL 20 4,,,,,,,20,,,,,,,,,,,JNTPL
+171,,53DA/2-7,OEC,,434,,,dL 23 10,,18 6,,,,,20 11,,,,,,,,,,,JNTTRANS
+172,,53DA/2-6,OEC,,,,,neu 24 10,,,,,,,20 10,,,,,,,,,,,JNTPL
+178,,1253,WMU,,,,dL are cut from trans,neu 29 3,,,,,22 7,21 11,,,,,21 6,,,,,,riser down,JNTTRANS
+179,,0763,WMU,,279 n main,nw crnr elm and rt 58,,neu 27 1,,dL 24 10,24 5,,,,22 1,,,,21 2,20 7,,,,,tie point 1Cm not there,JNTPL
+180,,0756,WMU,,rite aid,sw crnr elm and rt 58,,neu 29,,,26 6,,,,24 1,23,,,21 10,,,,,,,JNTPL
+182,,0748,WMU,,rite aid,,,neu 29,,,24 10,,,,23,,,,21 9,,,,,,,JNTPL
+183,,0743,WMU,,,,,dL 27,,25 8,24 7,,,,22 8,,,,21 5,,,,,,Plank s,JNTTRANS
+185,,NT,WMU,,s of Kelly St,,,neu 33 5,,,27 3,,,,24 3,,,,22 6,,,,,,plank s,JNTPL
+186,,0644,WMU,,s of Kelly St,,,neu 29 10,,,26 9,,,,19 6,,,,,,,,,,,JNTPL
+187,,0642,WMU,,217 Kelly St,,,neu 26 1,,,24 1,,,,21 9,,,,,,,,,,plank e,JNTPL
+188,,0641,WMU,,217 Kelly St,,,sec 25 4,,24 2,23 6,,,,21 10,,,,20 3,19 11,19 4,,,,,JNTPL
+189,,0638,WMU,,201 Kelly St,,,sec dL 27 6,,,,,,,20 4,,,,17 3,,,,,,,JNTPL
+190,,0637,WMU,,201 Kelly St,,,dL 28 5,,dL 27 9,,,,,20,,,,17 4,,,,,,,JNTTRANS
+191,,0637,WMU,,Wellington Builders,,,dL 26,,,,,,,18 10,,,,16 2,,,,,,,JNTTRANS
+192,,0633,WMU,,,,,dL 26 11,,27,,,,,20 1,,,,16 10,,,,,,,JNTTRANS
+193,,0631,WMU,,,,,sec dL 23 6,,,,,,,20 6,18 2,,,16 11,,,,,,plank w,JNTPL
+194,,0628,WMU,,se crnr kelly and rt 18,,,sec 27 11,,,27 4,,,,21 6,,,,25 6 attaches continues on 20 2,20 2,19,,,,plank e,JNTPL
+196,,0622,WMU,,204 w herrick av,,sec 23 7,sec dL 21 3,,,,,,,21 1,,,,20 2,19 1,17 7,,,,,JNTPL
+197,,0620,WMU,,w of union st,,,sec 24 8,,dL 22 10,19 10,,,,19 2,,18 8,,,17 8,16 11,,,,,JNTPL
+198,,0621,WMU,,208 w herrick,,,sec 23 2,,22 6,,,,,20 9,,19 11,,,19 6,18 7,,,,,JNTTRANS
+200,,0618,WMU,,312 w herrick,,,sec 24,,23 6,,,,,20 1,,19 1,,9 1,18 2,17 8,,,,,JNTPL
+201,,0619,WMU,,306 w herrick,,,dL 23 3,,,,,,,19 11,19 1,,,18 4,17 8,17,,,,,JNTTRANS
+203,,0612,WMU,,408 w herrick,,,dL 22 10,,24 9,,,19 6,,18 8,,,,17 11,17 5,,,,,,JNTTRANS
+204,,0612,WMU,,404 w herrick,w of middle st,,sec 22 7,,,,,19 1,,18 4,,,,17 5,16 11,,,,,,JNTPL
+205,,0613,WMU,,,e of middle st,,sec 24 10,,24 3,,,20 7,,19 11,,,,18 4,,,,,,,JNTTRANS
+206,,0598,WMU,,422 w herrick,e of west st,,sec 25 6,,24 8,,,22 6,,21 5,,,,20 10,,,,,,,JNTPL
+207,,0611,WMU,,418 w herrick,,,dL 24 7,,24 7,,,18 8,,18 2,,,,16 9,,,,,,,JNTTRANS
+209,,1118,WMU,,608  w herrick,,,dL 24 9,,25 4,21 2,,,,19 7,,,,18 8,,,,,,,JNTTRANS
+210,,1116,WMU,,,,,sec 23 9,,23 3,20 6,,,,19 2,,,,18 5,,,,,,,JNTPL
+211,,0607,WMU,,602,w of n mill st,,sec 29 2,,dL27 9,23 7,,,,22 1,,,,20 8 ext arm,,,,,,,JNTPL
+212,,0609,WMU,,516 w herrick,e of n mill st,,sec 24 8,,25 4,,,19 8,,22 1,,,,18 6,,,,,,,JNTPL
+213,,0610,WMU,,510 w herrick,,,dL 22 1,,23 9,,,,,19 3,,,,18 2,,,,,,,JNTTRANS
+214,,1127,WMU,,634 w herrick,,,sec 25,,23 11,21 1,,,,20,,,,18 11,,,,,,,JNTPL
+215,,NT,WMU,,630 w herrick,,,dL  25,,23 10,22 2,,,,20 8,,,,19 9,,,,,,,JNTTRANS
+216,,1120,WMU,,622 w herrick,,,sec 24 3,,22 5,21 2,,,,20 1,,,,19,15 11,19 6,,,,,JNTPL
+217,,1129,WMU,,,,,sec 23,,24 2,21 4,,,,19 9,,,,19,,,,,,plank w,JNTPL
+218,,1128,WMU,,,,,dL 25 4,,24 1,23 4,,,,22 7,,,,21 10,,,,,,,JNTTRANS
+219,,1133,WMU,,,,,sec 22 3,,22 3,21 6,,,,21 1,,,,19 5,,,,,,,JNTPL
+220,,1201,WMU,,,,,sec 20 11,,,,,,,19 2,,,,18 1,,,,,,plank e,JNTPL
+221,,1223,WMU,,,,,sec dL 25,,,,,,,18 7,,17 8,,,,,,,,,JNTPL
+222,,1224,WMU,,46760,,,sec 21 8,,,,,,,18 11,,17 10,,,,,,,,,JNTTRANS
+223,,1225,WMU,,46760,,,sec 27 7,,,,,,,21 1,,20 2,,,,,,,,,JNTPL
+225,,1230,WMU,,46850,,,dL 23 9,,,,,,,20 8,,19 9,,,,,,,,,JNTTRANS
+226,,1229,WMU,,,,,neu 34 1,,,,,,,26 11,,25 10,,,,,,,,,JNTPL
+227,,1231,WMU,,e of rr,,,sec 25 6,,,,,,,23 8,,23 1,,,,,,,,,JNTPL
+228,,1232,WMU,,w of rr,,,sec 27 4,,,,,,,23,,22 5,,,,,,,,,JNTPL
+229,,1233,WMU,,e of rr,,,sec 26,,,,,,,21 6,,20 11,,,,,,,,,JNTPL
+230,,1234,WMU,,w of rr,46950,,sec 26 5,,,,,,,22 4,,21 9,,,,,,,,,JNTPL
+231,,1235,WMU,,,46950,,neu 25 6,,23 6,,,22 7 ext arm,,22 8,,,,,,,,,,bsh,JNTPL
+232,,1242,WMU,,,,,neu 28 10,,,,,21,17 6 p to p,,,,,,,,,,,,JNTPL
+233,,1243,WMU,,,,,neu 24 11,,,,,20 6,,,,,,,,,,,,,JNTPL
+234,,1244,WMU,,,,,neu 29 4,,,,,20 9,,,,,,,,,,,,,JNTPL
+235,,1245,WMU,,46980,,,neu 28 4,,,,,20 5,,,,,,22 4 cross rd,,,,,,,JNTPL
+237,,1246,WMU,,,,,neu 25 9,,,,,21 1,,,,,,,,,,,,,JNTPL
+238,,1247,WMU,,,,,neu 25 11,,,,,20 11,,,,,,,,,,,,,JNTPL
+239,,1248,WMU,,47140,,neu 27,dL 21 10,,,,,19 11,,,,,,21 11,,,,,,,JNTTRANS
+240,,1251,WMU,,47140,,,neu 28 3,,,,,18 7,,,,,,19 4,,,,,,,JNTPL

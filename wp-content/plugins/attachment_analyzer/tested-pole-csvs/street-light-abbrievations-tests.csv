@@ -1,0 +1,5 @@
+HANDLE,REF,PLTG,OWNR,MP,ADRES,LOC,BLNK,LWSTPWR,TRFCCRCT,STLT,PWRFBR,UKNCM,UNKCM1,UNKCM2,CATV,CATV1,UNKCM3,UKNCM4,TELCO,TELCO1,TELCO2,TELCO3,UKN,UKN1,COMNTS,TYPE
+1,,,,,,,trans btm 31,sec dl 32 / p 35,20 /24,25 6 / btm 23,,,,,23 1,,,,,,,,,,,JNTTRANS
+,,,,,,,tbtm,,,35,,,,,,,,,,,,,,,,JNTPL
+,,,,,,,trbtm,,,,,,,,,,,,,,,,,,,
+,,,,,,,trns btm,,,,,,,,,,,,,,,,,,,

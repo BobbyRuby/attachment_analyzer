@@ -1,0 +1,1 @@
+This file is here as a placeholder and does nothing else.  Makes it easy to create this directory on fresh install.
